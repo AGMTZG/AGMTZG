@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**AGMTZG/AGMTZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I'm Alberto
 
-Here are some ideas to get you started:
+Platform / DevOps Engineer focused on Linux, Kubernetes and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build small tools to simplify real workflows and learn by shipping.
+
+### What I'm working on
+- Linux automation scripts and CLI tools
+- Kubernetes practice projects (CKA-style scenarios)
+- Personal tooling for media archiving and system workflows
+- AWS tutorial for begginers
+
+### Featured projects
+- Killercoda - Kubernetes Practice Labs
+  - Hands-on scenarios for learning and experimentation
+ 
+### How I build
+- I prefer simple tools over complex stacks
+- I optimize for clarity and maintainability
+- I ship small, usable things instead of big promises
+
+### Background
+- CKAD certified
+- Experience with Linux, containers and cloud-native tooling
